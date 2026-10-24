@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "types": ["node", "zotero-types"]
+  },
+  "include": ["src/zotero", "src/adapters/zotero-adapter.ts", "src/core", "zotero-plugin.config.ts"],
+  "exclude": ["node_modules", "build"]
+}
