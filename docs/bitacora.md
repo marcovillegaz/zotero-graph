@@ -1,5 +1,16 @@
 # Bitácora
 
+## 2026-10-24 — Primera tanda de guías pedagógicas
+
+**Hecho**
+- Guías en `docs/guia/` (00 a 06) y `docs/glosario.md`, escritas leyendo el código de la Fase 0. Índice en `docs/guia/00-mapa.md`; enlazadas desde `README.md`.
+
+**Pendiente**
+- Verificar en Zotero real de desarrollo lo marcado como "no verificado" en la guía 04 (`npm run dev`).
+- Añadir una prueba unitaria directa de `JsonAdapter` (hoy solo se ejerce vía Playwright).
+- Actualizar las guías 03 y 04 cuando llegue la vista real (Fase 1) y el `ZoteroAdapter` (Fase 2).
+- Generar `graph.html` (el primer grafo se creó con `--no-viz`).
+
 ## 2026-10-24 — Fase 0: bases del repo y harness
 
 **Hecho**

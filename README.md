@@ -25,3 +25,12 @@ Para ejecutar el plugin dentro de Zotero hay que crear antes el perfil de desarr
 
 - `CLAUDE.md`: reglas del proyecto, arquitectura y agentes.
 - `docs/comandos.md`, `docs/arquitectura.md`, `docs/decisiones/`, `docs/bitacora.md`.
+- Guías para aprender el proyecto (empieza por la 00):
+  - `docs/guia/00-mapa.md`: visión general, lenguajes y recorrido de un dato.
+  - `docs/guia/01-core.md`: tipos, contrato y validación pura.
+  - `docs/guia/02-adaptadores.md`: patrón adaptador, `JsonAdapter` y `ZoteroAdapter`.
+  - `docs/guia/03-vista.md`: Vite, `mountView` y Playwright.
+  - `docs/guia/04-plugin-zotero.md`: `addon/`, ciclo de vida, `.xpi` y perfil de desarrollo.
+  - `docs/guia/05-calidad-y-guardarrailes.md`: ESLint, tsconfig, pruebas, env-guard y hook.
+  - `docs/guia/06-agentes.md`: el equipo de subagentes y `/feature`.
+  - `docs/glosario.md`: términos clave.
