@@ -158,6 +158,7 @@ Cinco subagentes con responsabilidades separadas. Cada uno tiene su archivo en `
   - `docs/decisiones/NNNN-titulo.md`: ADRs con contexto, decisión y consecuencias.
   - `docs/bitacora.md`: qué se hizo en cada sesión, qué quedó pendiente y próximos pasos.
   - `CHANGELOG.md`: por versión, en formato Keep a Changelog.
+- **Estilo:** pedagógico (Marco quiere aprender el proyecto mientras se construye): por qué antes que cómo, términos definidos, ejemplos reales del repo con ruta y línea, y ejercicios "Pruébalo tú". Guías en `docs/guia/`, glosario en `docs/glosario.md`. Detalle en `.claude/agents/writer.md`.
 - **Reglas:** escribe después de cada cambio relevante; documenta lo que existe, no lo planificado (lo planificado va en la bitácora como pendiente); no modifica código.
 
 ### cartographer
