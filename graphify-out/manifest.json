@@ -1,0 +1,278 @@
+{
+  ".claude/hooks/block-real-library.mjs": {
+    "mtime": 1792878358.166391,
+    "seen": 1792878768.8746748,
+    "ast_hash": "7ebe9dd71e1cdb1f773f5d479eb966fe",
+    "semantic_hash": "7ebe9dd71e1cdb1f773f5d479eb966fe"
+  },
+  ".claude/settings.json": {
+    "mtime": 1792878358.2011757,
+    "seen": 1792878768.8746784,
+    "ast_hash": "32fd1cb5c80bfc8991a24ed4253d856b",
+    "semantic_hash": "32fd1cb5c80bfc8991a24ed4253d856b"
+  },
+  ".mcp.json": {
+    "mtime": 1792878571.2026718,
+    "seen": 1792878768.8746798,
+    "ast_hash": "bab6049e02a376830829599ceea0fe64",
+    "semantic_hash": "bab6049e02a376830829599ceea0fe64"
+  },
+  "addon/bootstrap.js": {
+    "mtime": 1792878376.3093376,
+    "seen": 1792878768.8746805,
+    "ast_hash": "3866b32e8921ca338a13e0037c55e0eb",
+    "semantic_hash": "3866b32e8921ca338a13e0037c55e0eb"
+  },
+  "addon/manifest.json": {
+    "mtime": 1792878376.3298156,
+    "seen": 1792878768.8746812,
+    "ast_hash": "8a4072b701a21978c26ccffc1fb01ce6",
+    "semantic_hash": "8a4072b701a21978c26ccffc1fb01ce6"
+  },
+  "eslint.config.js": {
+    "mtime": 1792878434.173807,
+    "seen": 1792878768.8746822,
+    "ast_hash": "ff2dd587ba2a93866ff815633d0e9978",
+    "semantic_hash": "ff2dd587ba2a93866ff815633d0e9978"
+  },
+  "fixtures/generate.ts": {
+    "mtime": 1792878434.4564474,
+    "seen": 1792878768.874683,
+    "ast_hash": "96db8d08a772185020cfe6df949173b0",
+    "semantic_hash": "96db8d08a772185020cfe6df949173b0"
+  },
+  "fixtures/library.json": {
+    "mtime": 1792878535.9755826,
+    "seen": 1792878768.8746834,
+    "ast_hash": "413a118d2090cfb0c29925faf8912173",
+    "semantic_hash": "413a118d2090cfb0c29925faf8912173"
+  },
+  "fixtures/zotero-profile/setup.ps1": {
+    "mtime": 1792878590.147752,
+    "seen": 1792878768.874684,
+    "ast_hash": "a1a562ef99d7f02e44a8aa714a9b5912",
+    "semantic_hash": "a1a562ef99d7f02e44a8aa714a9b5912"
+  },
+  "package.json": {
+    "mtime": 1792878529.5967848,
+    "seen": 1792878768.8746846,
+    "ast_hash": "232a31452970f547814fdc03af5d646e",
+    "semantic_hash": "232a31452970f547814fdc03af5d646e"
+  },
+  "playwright.config.ts": {
+    "mtime": 1792878399.8439546,
+    "seen": 1792878768.8746853,
+    "ast_hash": "3acbe39b0d32a5cdac3fa1a9041cc783",
+    "semantic_hash": "3acbe39b0d32a5cdac3fa1a9041cc783"
+  },
+  "scripts/env-guard.ts": {
+    "mtime": 1792878420.0753617,
+    "seen": 1792878768.8746862,
+    "ast_hash": "929cb227c6180aa31a1743f33ad58656",
+    "semantic_hash": "929cb227c6180aa31a1743f33ad58656"
+  },
+  "src/adapters/json-adapter.ts": {
+    "mtime": 1792878376.2012198,
+    "seen": 1792878768.8746867,
+    "ast_hash": "38c84e42d69a7ab753888096396dbcf7",
+    "semantic_hash": "38c84e42d69a7ab753888096396dbcf7"
+  },
+  "src/adapters/zotero-adapter.ts": {
+    "mtime": 1792878376.2202427,
+    "seen": 1792878768.8746874,
+    "ast_hash": "645b606c0e4197ab050bfa646a57e68d",
+    "semantic_hash": "645b606c0e4197ab050bfa646a57e68d"
+  },
+  "src/core/types.ts": {
+    "mtime": 1792878376.163854,
+    "seen": 1792878768.874688,
+    "ast_hash": "6551a28a8f6a1346bd81d6e1f959daa8",
+    "semantic_hash": "6551a28a8f6a1346bd81d6e1f959daa8"
+  },
+  "src/core/validate.ts": {
+    "mtime": 1792878376.1801462,
+    "seen": 1792878768.8746886,
+    "ast_hash": "a9d3092225562a1cca4da9345861c30f",
+    "semantic_hash": "a9d3092225562a1cca4da9345861c30f"
+  },
+  "src/view/entry.ts": {
+    "mtime": 1792878376.2757487,
+    "seen": 1792878768.8746893,
+    "ast_hash": "106b144b94769a59ce9aab05031a3128",
+    "semantic_hash": "106b144b94769a59ce9aab05031a3128"
+  },
+  "src/view/main.ts": {
+    "mtime": 1792878376.2541668,
+    "seen": 1792878768.8746898,
+    "ast_hash": "b38ff4ef1a9afe1455fd970650c25b50",
+    "semantic_hash": "b38ff4ef1a9afe1455fd970650c25b50"
+  },
+  "src/zotero/index.ts": {
+    "mtime": 1792878399.78552,
+    "seen": 1792878768.8746903,
+    "ast_hash": "e46a3ebaa9cecefc3f8110a1308cc6f9",
+    "semantic_hash": "e46a3ebaa9cecefc3f8110a1308cc6f9"
+  },
+  "tests/unit/env-guard.test.ts": {
+    "mtime": 1792878428.5287435,
+    "seen": 1792878768.874691,
+    "ast_hash": "5f461ad1526a4c8519f203c7c491cccb",
+    "semantic_hash": "5f461ad1526a4c8519f203c7c491cccb"
+  },
+  "tests/unit/fixture.test.ts": {
+    "mtime": 1792878399.8258579,
+    "seen": 1792878768.8746915,
+    "ast_hash": "7d92f570e019ca159b6d7d74333d3ab0",
+    "semantic_hash": "7d92f570e019ca159b6d7d74333d3ab0"
+  },
+  "tests/view/smoke.spec.ts": {
+    "mtime": 1792878399.863158,
+    "seen": 1792878768.8746924,
+    "ast_hash": "92e7c42ef6f0015a704c07b2fff12202",
+    "semantic_hash": "92e7c42ef6f0015a704c07b2fff12202"
+  },
+  "tsconfig.json": {
+    "mtime": 1792878446.6612659,
+    "seen": 1792878768.8746932,
+    "ast_hash": "4836392a328e6c6973317ab53227a3c0",
+    "semantic_hash": "4836392a328e6c6973317ab53227a3c0"
+  },
+  "tsconfig.zotero.json": {
+    "mtime": 1792878342.6364808,
+    "seen": 1792878768.8746939,
+    "ast_hash": "87770df3888819f7f2a95d18c4acb09b",
+    "semantic_hash": "87770df3888819f7f2a95d18c4acb09b"
+  },
+  "typings/i10n.d.ts": {
+    "mtime": 1792878530.5476494,
+    "seen": 1792878768.8746943,
+    "ast_hash": "113f033f149ffe8de0053b329dd798c7",
+    "semantic_hash": "113f033f149ffe8de0053b329dd798c7"
+  },
+  "vite.config.ts": {
+    "mtime": 1792878342.67849,
+    "seen": 1792878768.8746948,
+    "ast_hash": "2ee18e14e76bc7c53cb818282948576f",
+    "semantic_hash": "2ee18e14e76bc7c53cb818282948576f"
+  },
+  "vitest.config.ts": {
+    "mtime": 1792878446.6368284,
+    "seen": 1792878768.8746955,
+    "ast_hash": "ad3b5bebd0a72d6cd191a394b2eb6416",
+    "semantic_hash": "ad3b5bebd0a72d6cd191a394b2eb6416"
+  },
+  "zotero-plugin.config.ts": {
+    "mtime": 1792878342.6584885,
+    "seen": 1792878768.8746963,
+    "ast_hash": "0fcf15f31683dd0eaf03137e3ef20099",
+    "semantic_hash": "0fcf15f31683dd0eaf03137e3ef20099"
+  },
+  ".claude/agents/cartographer.md": {
+    "mtime": 1792878572.4820228,
+    "seen": 1792878768.8746967,
+    "ast_hash": "51e2722a30ca03ec52b46a2ea0530b7a",
+    "semantic_hash": "51e2722a30ca03ec52b46a2ea0530b7a"
+  },
+  ".claude/agents/developer.md": {
+    "mtime": 1792878571.4495423,
+    "seen": 1792878768.8746974,
+    "ast_hash": "18db6fa2719aadd76124a112704e3377",
+    "semantic_hash": "18db6fa2719aadd76124a112704e3377"
+  },
+  ".claude/agents/qa.md": {
+    "mtime": 1792878571.958312,
+    "seen": 1792878768.874698,
+    "ast_hash": "746de1a931834a3af62623aec69c8bbb",
+    "semantic_hash": "746de1a931834a3af62623aec69c8bbb"
+  },
+  ".claude/agents/tester.md": {
+    "mtime": 1792878571.687021,
+    "seen": 1792878768.8746986,
+    "ast_hash": "d6a98b15f9327847b02e64b89d594f69",
+    "semantic_hash": "d6a98b15f9327847b02e64b89d594f69"
+  },
+  ".claude/agents/writer.md": {
+    "mtime": 1792878572.2311077,
+    "seen": 1792878768.8746994,
+    "ast_hash": "8bbeab062edf11b721119af92e488890",
+    "semantic_hash": "8bbeab062edf11b721119af92e488890"
+  },
+  ".claude/commands/feature.md": {
+    "mtime": 1792878572.7352407,
+    "seen": 1792878768.8746998,
+    "ast_hash": "4fc73ed5afc4da86f0bf49319d2b2564",
+    "semantic_hash": "4fc73ed5afc4da86f0bf49319d2b2564"
+  },
+  "CHANGELOG.md": {
+    "mtime": 1792878620.9713924,
+    "seen": 1792878768.8747003,
+    "ast_hash": "c59a524274276a17976333d2bbbe9c73",
+    "semantic_hash": "c59a524274276a17976333d2bbbe9c73"
+  },
+  "CLAUDE.md": {
+    "mtime": 1792877011.946614,
+    "seen": 1792878768.874701,
+    "ast_hash": "ffacf0fb94dcc651bbd0e9e392283ef2",
+    "semantic_hash": "ffacf0fb94dcc651bbd0e9e392283ef2"
+  },
+  "README.md": {
+    "mtime": 1792878620.7008684,
+    "seen": 1792878768.8747015,
+    "ast_hash": "a984506e864fc1c0f123c69a9dd464d0",
+    "semantic_hash": "a984506e864fc1c0f123c69a9dd464d0"
+  },
+  "docs/arquitectura.md": {
+    "mtime": 1792878621.472556,
+    "seen": 1792878768.8747025,
+    "ast_hash": "b749150a97704af1eca619727d4dc1a5",
+    "semantic_hash": "b749150a97704af1eca619727d4dc1a5"
+  },
+  "docs/bitacora.md": {
+    "mtime": 1792878622.2525823,
+    "seen": 1792878768.874703,
+    "ast_hash": "8ff764e605d27b21c5858d89ccb8d1c1",
+    "semantic_hash": "8ff764e605d27b21c5858d89ccb8d1c1"
+  },
+  "docs/comandos.md": {
+    "mtime": 1792878621.2061615,
+    "seen": 1792878768.8747036,
+    "ast_hash": "a31fb597ec4c94b3350b9936292f0af9",
+    "semantic_hash": "a31fb597ec4c94b3350b9936292f0af9"
+  },
+  "docs/decisiones/0001-tooling-zotero-plugin-scaffold.md": {
+    "mtime": 1792878621.7245548,
+    "seen": 1792878768.874704,
+    "ast_hash": "09caa48f0a551a7abc356a1c319e2320",
+    "semantic_hash": "09caa48f0a551a7abc356a1c319e2320"
+  },
+  "docs/decisiones/0002-guardarrailes-biblioteca-real.md": {
+    "mtime": 1792878622.0023227,
+    "seen": 1792878768.8747044,
+    "ast_hash": "20f194eeba4770a1d504360c12101b77",
+    "semantic_hash": "20f194eeba4770a1d504360c12101b77"
+  },
+  "fixtures/README.md": {
+    "mtime": 1792878589.6910462,
+    "seen": 1792878768.874705,
+    "ast_hash": "265cc6642ec92602fa6ec07b8f422b2d",
+    "semantic_hash": "265cc6642ec92602fa6ec07b8f422b2d"
+  },
+  "fixtures/zotero-profile/README.md": {
+    "mtime": 1792878589.9315038,
+    "seen": 1792878768.8747063,
+    "ast_hash": "0de8d6c13993782fd89069b966813732",
+    "semantic_hash": "0de8d6c13993782fd89069b966813732"
+  },
+  "reference/README.md": {
+    "mtime": 1792878622.4900522,
+    "seen": 1792878768.8747067,
+    "ast_hash": "0b2ee8b542bee3e59dccedd21eeb4ef3",
+    "semantic_hash": "0b2ee8b542bee3e59dccedd21eeb4ef3"
+  },
+  "src/view/index.html": {
+    "mtime": 1792878376.2388227,
+    "seen": 1792878768.8747075,
+    "ast_hash": "c874b5cf59e23ad0ee023771a42ca3ec",
+    "semantic_hash": "c874b5cf59e23ad0ee023771a42ca3ec"
+  }
+}
