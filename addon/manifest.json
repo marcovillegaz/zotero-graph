@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Zotero Library Graph",
+  "version": "0.0.0",
+  "description": "Grafo interactivo de referencias, colecciones y tags.",
+  "applications": {
+    "zotero": {
+      "id": "zotero-library-graph@marcovillegaz",
+      "strict_min_version": "7.0"
+    }
+  }
+}
