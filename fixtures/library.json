@@ -1,0 +1,799 @@
+{
+  "asof": "2024-01-01T00:00:00.000Z",
+  "items": [
+    {
+      "key": "UQCA74AS",
+      "firstAuthor": "Dubois",
+      "year": 2015,
+      "itemType": "book",
+      "annotationCount": 6,
+      "collectionIds": [
+        1
+      ],
+      "tagIds": [
+        8
+      ],
+      "title": "Evaluación con redes profundas 1",
+      "publication": "J. Hydrol."
+    },
+    {
+      "key": "CRJSQJ3C",
+      "firstAuthor": "Okafor",
+      "year": 2023,
+      "itemType": "report",
+      "annotationCount": 9,
+      "collectionIds": [
+        5
+      ],
+      "tagIds": [
+        5,
+        7
+      ],
+      "title": "Evaluación de precipitación 2"
+    },
+    {
+      "key": "BFJL2AQM",
+      "firstAuthor": "Okafor",
+      "year": 2022,
+      "itemType": "thesis",
+      "annotationCount": 4,
+      "collectionIds": [
+        3
+      ],
+      "tagIds": [
+        5,
+        2
+      ],
+      "title": "Modelo de cuencas 3"
+    },
+    {
+      "key": "69J3E3NA",
+      "firstAuthor": "Chen",
+      "year": 2011,
+      "itemType": "book",
+      "annotationCount": 3,
+      "collectionIds": [
+        6
+      ],
+      "tagIds": [
+        6
+      ],
+      "title": "Revisión con redes profundas 4"
+    },
+    {
+      "key": "8EAH63SX",
+      "firstAuthor": "Pérez",
+      "year": 2007,
+      "itemType": "book",
+      "annotationCount": 7,
+      "collectionIds": [
+        4
+      ],
+      "tagIds": [
+        6,
+        2
+      ],
+      "title": "Evaluación de caudales 5"
+    },
+    {
+      "key": "FPVZZHCU",
+      "firstAuthor": "Rossi",
+      "year": 2007,
+      "itemType": "conferencePaper",
+      "annotationCount": 7,
+      "collectionIds": [
+        2
+      ],
+      "tagIds": [
+        2
+      ],
+      "title": "Estimación de caudales 6",
+      "publication": "J. Hydrol."
+    },
+    {
+      "key": "VJ8AQACF",
+      "firstAuthor": "Dubois",
+      "year": 2017,
+      "itemType": "book",
+      "annotationCount": 8,
+      "collectionIds": [
+        3
+      ],
+      "tagIds": [
+        2,
+        3
+      ],
+      "title": "Estimación de precipitación 7",
+      "publication": "NeurIPS"
+    },
+    {
+      "key": "W97ZLDCT",
+      "firstAuthor": "Müller",
+      "year": 2008,
+      "itemType": "conferencePaper",
+      "annotationCount": 7,
+      "collectionIds": [
+        5
+      ],
+      "tagIds": [
+        8
+      ],
+      "title": "Revisión bayesiano 8",
+      "publication": "J. Hydrol."
+    },
+    {
+      "key": "M6QCX64Q",
+      "firstAuthor": "Dubois",
+      "year": 2020,
+      "itemType": "report",
+      "annotationCount": 6,
+      "collectionIds": [
+        6
+      ],
+      "tagIds": [
+        3,
+        2,
+        4
+      ],
+      "title": "Revisión de precipitación 9",
+      "publication": "WRR"
+    },
+    {
+      "key": "ASEYSEC4",
+      "firstAuthor": "Müller",
+      "year": 2014,
+      "itemType": "journalArticle",
+      "annotationCount": 3,
+      "collectionIds": [
+        5
+      ],
+      "tagIds": [
+        6
+      ],
+      "title": "Modelo satelital 10",
+      "publication": "NeurIPS"
+    },
+    {
+      "key": "KAUQJA4G",
+      "firstAuthor": "Dubois",
+      "year": 2015,
+      "itemType": "conferencePaper",
+      "annotationCount": 4,
+      "collectionIds": [
+        4
+      ],
+      "tagIds": [
+        1,
+        4,
+        2
+      ],
+      "title": "Modelo bayesiano 11",
+      "publication": "J. Hydrol."
+    },
+    {
+      "key": "JA6BWM35",
+      "firstAuthor": "Chen",
+      "year": 2006,
+      "itemType": "journalArticle",
+      "annotationCount": 8,
+      "collectionIds": [
+        1
+      ],
+      "tagIds": [
+        7
+      ],
+      "title": "Modelo con redes profundas 12",
+      "publication": "WRR"
+    },
+    {
+      "key": "S33JPZU9",
+      "firstAuthor": "Dubois",
+      "year": 2018,
+      "itemType": "report",
+      "annotationCount": 3,
+      "collectionIds": [
+        6
+      ],
+      "tagIds": [
+        8,
+        3,
+        7
+      ],
+      "title": "Revisión satelital 13"
+    },
+    {
+      "key": "TGQRWFYK",
+      "firstAuthor": "Rossi",
+      "year": 2008,
+      "itemType": "conferencePaper",
+      "annotationCount": 3,
+      "collectionIds": [
+        1
+      ],
+      "tagIds": [
+        3
+      ],
+      "title": "Predicción de caudales 14",
+      "publication": "Nature"
+    },
+    {
+      "key": "BN3PCA2D",
+      "firstAuthor": "Rossi",
+      "year": 2005,
+      "itemType": "book",
+      "annotationCount": 4,
+      "collectionIds": [
+        4
+      ],
+      "tagIds": [
+        2,
+        7
+      ],
+      "title": "Predicción de precipitación 15",
+      "publication": "WRR"
+    },
+    {
+      "key": "88DDDNPF",
+      "firstAuthor": "Kim",
+      "year": 2023,
+      "itemType": "journalArticle",
+      "annotationCount": 9,
+      "collectionIds": [
+        2
+      ],
+      "tagIds": [
+        1,
+        5,
+        7
+      ],
+      "title": "Evaluación de caudales 16"
+    },
+    {
+      "key": "QLBDTZ7T",
+      "firstAuthor": "Silva",
+      "year": 2005,
+      "itemType": "conferencePaper",
+      "annotationCount": 3,
+      "collectionIds": [
+        3
+      ],
+      "tagIds": [
+        1,
+        8
+      ],
+      "title": "Análisis bayesiano 17"
+    },
+    {
+      "key": "VCAQDC72",
+      "firstAuthor": "Kim",
+      "year": 2012,
+      "itemType": "journalArticle",
+      "annotationCount": 9,
+      "collectionIds": [
+        1
+      ],
+      "tagIds": [
+        8
+      ],
+      "title": "Modelo de precipitación 18"
+    },
+    {
+      "key": "VC986BC3",
+      "firstAuthor": "Rossi",
+      "year": 2007,
+      "itemType": "thesis",
+      "annotationCount": 3,
+      "collectionIds": [
+        6
+      ],
+      "tagIds": [
+        8
+      ],
+      "title": "Estimación de precipitación 19"
+    },
+    {
+      "key": "NTEYCCWC",
+      "firstAuthor": "Chen",
+      "year": 2008,
+      "itemType": "report",
+      "annotationCount": 11,
+      "collectionIds": [
+        3
+      ],
+      "tagIds": [
+        1
+      ],
+      "title": "Revisión de caudales 20",
+      "publication": "NeurIPS"
+    },
+    {
+      "key": "ZX2N5FMJ",
+      "firstAuthor": "Pérez",
+      "year": 2019,
+      "itemType": "report",
+      "annotationCount": 6,
+      "collectionIds": [
+        3
+      ],
+      "tagIds": [
+        7,
+        4
+      ],
+      "title": "Revisión satelital 21",
+      "publication": "J. Hydrol."
+    },
+    {
+      "key": "R9VXGMP5",
+      "firstAuthor": "Okafor",
+      "year": 2013,
+      "itemType": "conferencePaper",
+      "annotationCount": 10,
+      "collectionIds": [
+        1
+      ],
+      "tagIds": [
+        8,
+        4
+      ],
+      "title": "Modelo de caudales 22"
+    },
+    {
+      "key": "FLZDF5QV",
+      "firstAuthor": "Chen",
+      "year": 2021,
+      "itemType": "report",
+      "annotationCount": 4,
+      "collectionIds": [
+        1
+      ],
+      "tagIds": [
+        7,
+        6
+      ],
+      "title": "Análisis satelital 23"
+    },
+    {
+      "key": "HYZFCADU",
+      "firstAuthor": "Kim",
+      "year": 2022,
+      "itemType": "thesis",
+      "annotationCount": 7,
+      "collectionIds": [
+        3
+      ],
+      "tagIds": [
+        6
+      ],
+      "title": "Estimación de caudales 24",
+      "publication": "J. Hydrol."
+    },
+    {
+      "key": "K8DSRB83",
+      "firstAuthor": "Chen",
+      "year": 2011,
+      "itemType": "journalArticle",
+      "annotationCount": 8,
+      "collectionIds": [
+        6
+      ],
+      "tagIds": [
+        2,
+        8
+      ],
+      "title": "Revisión de caudales 25",
+      "publication": "Nature"
+    },
+    {
+      "key": "HCGHRSS2",
+      "firstAuthor": "Okafor",
+      "year": 2021,
+      "itemType": "thesis",
+      "annotationCount": 11,
+      "collectionIds": [
+        2
+      ],
+      "tagIds": [
+        3,
+        4
+      ],
+      "title": "Evaluación de precipitación 26"
+    },
+    {
+      "key": "VR3UANQN",
+      "firstAuthor": "Dubois",
+      "year": 2023,
+      "itemType": "report",
+      "annotationCount": 5,
+      "collectionIds": [
+        6
+      ],
+      "tagIds": [
+        6,
+        4
+      ],
+      "title": "Predicción con redes profundas 27",
+      "publication": "NeurIPS"
+    },
+    {
+      "key": "A7HL383H",
+      "firstAuthor": "Okafor",
+      "year": 2015,
+      "itemType": "journalArticle",
+      "annotationCount": 2,
+      "collectionIds": [
+        6
+      ],
+      "tagIds": [
+        6
+      ],
+      "title": "Análisis de cuencas 28",
+      "publication": "NeurIPS"
+    },
+    {
+      "key": "HNRYB4WW",
+      "firstAuthor": "Dubois",
+      "year": 2021,
+      "itemType": "report",
+      "annotationCount": 9,
+      "collectionIds": [
+        4
+      ],
+      "tagIds": [
+        7,
+        2
+      ],
+      "title": "Análisis de caudales 29",
+      "publication": "J. Hydrol."
+    },
+    {
+      "key": "5DJN4QVN",
+      "firstAuthor": "Chen",
+      "year": 2010,
+      "itemType": "report",
+      "annotationCount": 7,
+      "collectionIds": [
+        6
+      ],
+      "tagIds": [
+        8
+      ],
+      "title": "Predicción satelital 30"
+    },
+    {
+      "key": "SHRLSHDT",
+      "firstAuthor": "Pérez",
+      "year": 2008,
+      "itemType": "journalArticle",
+      "annotationCount": 8,
+      "collectionIds": [
+        5
+      ],
+      "tagIds": [
+        3,
+        1
+      ],
+      "title": "Revisión de cuencas 31",
+      "publication": "NeurIPS"
+    },
+    {
+      "key": "AGL25598",
+      "firstAuthor": "Rossi",
+      "year": 2006,
+      "itemType": "conferencePaper",
+      "annotationCount": 10,
+      "collectionIds": [
+        6
+      ],
+      "tagIds": [
+        3
+      ],
+      "title": "Modelo de cuencas 32"
+    },
+    {
+      "key": "ZWLM9QCU",
+      "firstAuthor": "Pérez",
+      "year": 2005,
+      "itemType": "report",
+      "annotationCount": 0,
+      "collectionIds": [
+        3
+      ],
+      "tagIds": [
+        8,
+        4
+      ],
+      "title": "Revisión de caudales 33",
+      "publication": "WRR"
+    },
+    {
+      "key": "N2Z7T8VS",
+      "firstAuthor": "Dubois",
+      "year": 2008,
+      "itemType": "journalArticle",
+      "annotationCount": 8,
+      "collectionIds": [
+        3
+      ],
+      "tagIds": [
+        4,
+        5,
+        7
+      ],
+      "title": "Modelo de cuencas 34",
+      "publication": "WRR"
+    },
+    {
+      "key": "F7VK6PKX",
+      "firstAuthor": "Dubois",
+      "year": 2012,
+      "itemType": "journalArticle",
+      "annotationCount": 5,
+      "collectionIds": [
+        1
+      ],
+      "tagIds": [
+        5
+      ],
+      "title": "Revisión de precipitación 35",
+      "publication": "NeurIPS"
+    },
+    {
+      "key": "MUTGVD7X",
+      "firstAuthor": "Chen",
+      "year": 2020,
+      "itemType": "thesis",
+      "annotationCount": 5,
+      "collectionIds": [
+        6
+      ],
+      "tagIds": [
+        4,
+        6
+      ],
+      "title": "Evaluación de cuencas 36"
+    },
+    {
+      "key": "SSULGGGV",
+      "firstAuthor": "Silva",
+      "year": 2015,
+      "itemType": "journalArticle",
+      "annotationCount": 8,
+      "collectionIds": [
+        4
+      ],
+      "tagIds": [
+        3
+      ],
+      "title": "Duplicado A: Estimación de caudales"
+    },
+    {
+      "key": "CMV6AAW8",
+      "firstAuthor": "Silva",
+      "year": 2015,
+      "itemType": "journalArticle",
+      "annotationCount": 6,
+      "collectionIds": [
+        3
+      ],
+      "tagIds": [
+        3
+      ],
+      "title": "Duplicado A: Estimación de caudales"
+    },
+    {
+      "key": "8TFNKWT7",
+      "firstAuthor": "Kim",
+      "year": null,
+      "itemType": "book",
+      "annotationCount": 11,
+      "collectionIds": [
+        6
+      ],
+      "tagIds": [
+        1
+      ],
+      "title": "Sin año"
+    },
+    {
+      "key": "ZUWSARKU",
+      "firstAuthor": "",
+      "year": 2023,
+      "itemType": "book",
+      "annotationCount": 2,
+      "collectionIds": [
+        3
+      ],
+      "tagIds": [
+        2
+      ],
+      "title": "Sin autores"
+    },
+    {
+      "key": "KMN5LHHH",
+      "firstAuthor": "Kim",
+      "year": 2018,
+      "itemType": "thesis",
+      "annotationCount": 0,
+      "collectionIds": [
+        2
+      ],
+      "tagIds": [],
+      "title": "Sin tags"
+    },
+    {
+      "key": "KHC6BNEZ",
+      "firstAuthor": "",
+      "year": null,
+      "itemType": "attachment",
+      "annotationCount": 3,
+      "collectionIds": [],
+      "tagIds": [],
+      "title": "PDF suelto.pdf"
+    },
+    {
+      "key": "JEPXWBKP",
+      "firstAuthor": "Pérez",
+      "year": 2010,
+      "itemType": "report",
+      "annotationCount": 7,
+      "collectionIds": [
+        1,
+        3,
+        5,
+        6
+      ],
+      "tagIds": [
+        1,
+        2
+      ],
+      "title": "En varias colecciones"
+    },
+    {
+      "key": "N74SWHLH",
+      "firstAuthor": "Dubois",
+      "year": 2016,
+      "itemType": "book",
+      "annotationCount": 0,
+      "collectionIds": [
+        1
+      ],
+      "tagIds": [
+        4
+      ],
+      "title": "Sin anotaciones"
+    },
+    {
+      "key": "GQJXZLPE",
+      "firstAuthor": "Müller",
+      "year": 2015,
+      "itemType": "report",
+      "annotationCount": 142,
+      "collectionIds": [
+        6
+      ],
+      "tagIds": [
+        1,
+        7
+      ],
+      "title": "Muy anotado"
+    },
+    {
+      "key": "KAZN4YL9",
+      "firstAuthor": "Silva",
+      "year": 2016,
+      "itemType": "report",
+      "annotationCount": 10,
+      "collectionIds": [
+        3
+      ],
+      "tagIds": [
+        2
+      ],
+      "title": "Colección profunda"
+    },
+    {
+      "key": "EZKJENBT",
+      "firstAuthor": "Chen et al.",
+      "year": 2008,
+      "itemType": "report",
+      "annotationCount": 6,
+      "collectionIds": [
+        6
+      ],
+      "tagIds": [
+        1,
+        2
+      ],
+      "title": "Etiquetas con variantes"
+    }
+  ],
+  "collections": [
+    {
+      "id": 1,
+      "name": "Métodos",
+      "parentId": null,
+      "rootName": "Métodos"
+    },
+    {
+      "id": 2,
+      "name": "Aprendizaje",
+      "parentId": 1,
+      "rootName": "Métodos"
+    },
+    {
+      "id": 3,
+      "name": "Redes neuronales",
+      "parentId": 2,
+      "rootName": "Métodos"
+    },
+    {
+      "id": 4,
+      "name": "Dominio",
+      "parentId": null,
+      "rootName": "Dominio"
+    },
+    {
+      "id": 5,
+      "name": "Hidrología",
+      "parentId": 4,
+      "rootName": "Dominio"
+    },
+    {
+      "id": 6,
+      "name": "Por leer",
+      "parentId": null,
+      "rootName": "Por leer"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "machine learning",
+      "count": 9,
+      "variants": [
+        "ML",
+        "Machine Learning",
+        "machine-learning"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "neural network",
+      "count": 13,
+      "variants": [
+        "neural networks",
+        "Neural Network"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "hydrology",
+      "count": 9
+    },
+    {
+      "id": 4,
+      "name": "remote sensing",
+      "count": 10
+    },
+    {
+      "id": 5,
+      "name": "estado:leído",
+      "count": 5
+    },
+    {
+      "id": 6,
+      "name": "estado:pendiente",
+      "count": 8
+    },
+    {
+      "id": 7,
+      "name": "benchmark",
+      "count": 10
+    },
+    {
+      "id": 8,
+      "name": "survey",
+      "count": 10
+    }
+  ]
+}
